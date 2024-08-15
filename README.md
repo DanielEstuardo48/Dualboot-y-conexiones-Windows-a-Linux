@@ -1,0 +1,1 @@
+En el siguiente respositoria se vera como <p>realizar lo que es un dual boot con arch linux y tambien instalar este sistema en una virtual box, asi mismo veremos como crear un cable cruzado como tambien hacer las conexiones entre windows y linux. 💻🛜👾📽️</p>
